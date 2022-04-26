@@ -1,0 +1,42 @@
+body{
+  background-color:white;
+  margin:0;
+  padding: 0;
+  display:block;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  text-align:center;
+  
+ 
+}
+a{
+  background-color:aquamarine;
+  color:#ffffff;
+  text-decoration:none;
+  border-radius:8px;
+  padding:10px;
+  margin: 40px 20px 40px 20px;
+  width:40px;
+  font-size:14px;
+}
+h1{
+  text-decoration:underline;
+  background-color:aqua;
+  width:100%;
+  margin:15px auto 30px auto;
+}
+img{ 
+  width:210px;
+  
+}
+p{
+  font-size:14px;
+  color:black;
+  font-weight:bold;
+  margin:15px auto 30px auto;
+  width:930px;
+}
+span{
+  font-size:14px;
+  font-weight:bold;
+  color:red
+}
